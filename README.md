@@ -1,5 +1,7 @@
 # ChatApp
 
+This is a very basic website with users and authentication which I will use as a base for different projects
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
